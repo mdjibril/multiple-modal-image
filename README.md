@@ -8,4 +8,4 @@ makesure to create a database imagemodal
 dont forget to import th imagetb.sql into your db
 
 after that start your xampp and navigate to
-"http://localhost/mutiple-modal-image/index.php"
+"http://localhost/multiple-modal-image/index.php"
