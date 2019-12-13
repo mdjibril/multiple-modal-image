@@ -16,7 +16,7 @@
 		
 
 		echo "<div>";
-		$dir = "images/".$imageId."/";
+		$dir = "images/".$imageId."";
 		$open = opendir($dir);
 
 		while (($file = readdir($open)) != false) {
